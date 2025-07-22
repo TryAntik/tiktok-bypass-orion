@@ -1,5 +1,5 @@
 using System;
 
 internal class Project {
-    public bool Check(string ru, string en) => ru == en ? true : false;
+    public bool Check(string ru, string en) => ru == en;
 }
